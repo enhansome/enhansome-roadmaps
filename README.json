@@ -1,0 +1,801 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go Developer Roadmap",
+          "description": "Go developer roadmap covering language fundamentals, tooling, and backend topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-13T08:08:20Z",
+            "owner": "darius-khll",
+            "repo": "golang-developer-roadmap",
+            "stars": 18430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js Developer Roadmap",
+          "description": "Node.js developer roadmap covering fundamentals, tooling, and backend concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-12T21:05:33Z",
+            "owner": "aliyr",
+            "repo": "Nodejs-Developer-Roadmap",
+            "stars": 4798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java Developer Roadmap",
+          "description": "Java developer roadmap with a current visual learning plan and practice topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-15T18:46:28Z",
+            "owner": "s4kibs4mi",
+            "repo": "java-developer-roadmap",
+            "stars": 4520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Developer Roadmap",
+          "description": "PHP roadmap with a visual map and companion video material.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-06T13:00:32Z",
+            "owner": "thecodeholic",
+            "repo": "php-developer-roadmap",
+            "stars": 3658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Developer Roadmap",
+          "description": "C++ learning roadmap with articles, visual maps, and supporting resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-31T07:43:54Z",
+            "owner": "salmer",
+            "repo": "CppDeveloperRoadmap",
+            "stars": 3529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Web Developer Roadmap",
+          "description": "Rust web development roadmap covering language basics, frameworks, and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-27T05:13:14Z",
+            "owner": "anshulrgoyal",
+            "repo": "rust-web-developer-roadmap",
+            "stars": 1843
+          }
+        }
+      ],
+      "title": "Programming Language"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Developer Roadmap",
+          "description": "Interactive roadmaps, guides, and educational content for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:38:56Z",
+            "owner": "nilbuild",
+            "repo": "developer-roadmap",
+            "stars": 364299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASP.NET Core Developer Roadmap",
+          "description": "ASP.NET Core roadmap with a maintained visual path and multilingual documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-29T14:44:09Z",
+            "owner": "MoienTajik",
+            "repo": "AspNetCore-Developer-Roadmap",
+            "stars": 19632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Developer Roadmap",
+          "description": "React roadmap that links the framework to its surrounding ecosystem and tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-16T12:34:44Z",
+            "owner": "adam-golab",
+            "repo": "react-developer-roadmap",
+            "stars": 18932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend Development Roadmap",
+          "description": "Frontend interview checklist and roadmap published as a PDF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-08T04:22:24Z",
+            "owner": "sadanandpai",
+            "repo": "frontend-learning-kit",
+            "stars": 4681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Developer Roadmap",
+          "description": "Angular roadmap covering core concepts, tooling, RxJS, state management, and testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-14T17:14:42Z",
+            "owner": "sulco",
+            "repo": "angular-developer-roadmap",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Developer Roadmap",
+          "description": "Laravel learning roadmap that maps prerequisites, core topics, and ecosystem tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-27T09:45:02Z",
+            "owner": "Hasnayeen",
+            "repo": "laravel-developer-roadmap",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Developer Roadmap",
+          "description": "Vue.js roadmap for building a well-rounded frontend skill set around Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-07T12:10:47Z",
+            "owner": "flaviocopes",
+            "repo": "vue-developer-roadmap",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Developer Roadmap (Alternative)",
+          "description": "Alternative Angular roadmap focused on what to learn next across the ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-06T04:29:38Z",
+            "owner": "saifaustcse",
+            "repo": "angular-developer-roadmap",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevRoadmaps",
+          "description": "Free developer career roadmaps with 17 paths, 800+ topics, and 1700+ curated resources. PWA with offline support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T13:30:54Z",
+            "owner": "rudra496",
+            "repo": "devroadmaps",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend Developer Roadmap",
+          "description": "Frontend developer roadmap with a visual path across core web technologies, frameworks, and tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-23T08:30:43Z",
+            "owner": "Yousha",
+            "repo": "Frontend-Developer-Roadmap",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Web Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android Developer Roadmap (Alternative)",
+          "description": "Alternative Android roadmap with comprehensive learning paths across the Android ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-08T06:31:34Z",
+            "owner": "skydoves",
+            "repo": "android-developer-roadmap",
+            "stars": 7780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Developer Roadmap",
+          "description": "Apple platform development roadmap that outlines the main topics and tools used in iOS development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-01-25T09:57:30Z",
+            "owner": "BohdanOrlov",
+            "repo": "iOS-Developer-Roadmap",
+            "stars": 6416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Developer Roadmap",
+          "description": "Flutter roadmap focused on app development topics, tooling, and developer workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-24T17:48:05Z",
+            "owner": "olexale",
+            "repo": "flutter_roadmap",
+            "stars": 5937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Developer Roadmap",
+          "description": "Android learning roadmap with visual maps, study notes, and companion material.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-18T14:03:21Z",
+            "owner": "mobile-roadmap",
+            "repo": "android-developer-roadmap",
+            "stars": 4089
+          }
+        }
+      ],
+      "title": "Mobile Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevOps Roadmap",
+          "description": "Step-by-step DevOps roadmap with learning resources across Git, Linux, containers, CI/CD, cloud, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T15:33:20Z",
+            "owner": "milanm",
+            "repo": "DevOps-Roadmap",
+            "stars": 20224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Platform Engineering Roadmap",
+          "description": "Platform engineering roadmap published as an interactive website with a GitHub-backed source repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T12:08:18Z",
+            "owner": "mbianchidev",
+            "repo": "platform-engineering-roadmap",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Infrastructure / Operations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game Programming Roadmap",
+          "description": "Study path for game programmers with an emphasis on core engineering topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T01:05:23Z",
+            "owner": "miloyip",
+            "repo": "game-programmer",
+            "stars": 18691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game Developer Roadmap",
+          "description": "Game development roadmap for building the required foundation, tools, and specialties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-31T14:57:17Z",
+            "owner": "utilForever",
+            "repo": "game-developer-roadmap",
+            "stars": 5777
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLM Course",
+          "description": "Free LLM course with roadmap-style progression and practical Colab notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T13:09:26Z",
+            "owner": "mlabonne",
+            "repo": "llm-course",
+            "stars": 81649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI for Beginners",
+          "description": "Beginner-friendly 12-week artificial intelligence curriculum with 24 ordered lessons, quizzes, labs, and practical notebooks covering symbolic AI, deep learning, computer vision, NLP, reinforcement learning, and AI ethics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-21T11:11:48Z",
+            "owner": "microsoft",
+            "repo": "AI-For-Beginners",
+            "stars": 64782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Reading Roadmap",
+          "description": "Reading roadmap through influential deep learning papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T13:18:32Z",
+            "owner": "floodsung",
+            "repo": "Deep-Learning-Papers-Reading-Roadmap",
+            "stars": 39552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Expert Roadmap",
+          "description": "Artificial intelligence roadmap covering theory, tools, and hands-on practice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-12T14:59:30Z",
+            "owner": "AMAI-GmbH",
+            "repo": "AI-Expert-Roadmap",
+            "stars": 31204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Engineer Roadmap",
+          "description": "Data engineering study guide for the modern data stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-25T21:09:00Z",
+            "owner": "datastacktv",
+            "repo": "data-engineer-roadmap",
+            "stars": 12754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Scientist Roadmap",
+          "description": "Companion tutorials and notes for a visual data science roadmap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-11T08:26:32Z",
+            "owner": "MrMimic",
+            "repo": "data-scientist-roadmap",
+            "stars": 7383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Roadmap",
+          "description": "Deep learning starter roadmap with curated references and explanations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-22T12:18:32Z",
+            "owner": "instillai",
+            "repo": "deep-learning-roadmap",
+            "stars": 4636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP Roadmap",
+          "description": "NLP study roadmap with mind maps and keyword-based learning guidance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-29T07:07:52Z",
+            "owner": "graykode",
+            "repo": "nlp-roadmap",
+            "stars": 3267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Analyst Roadmap",
+          "description": "Full data analyst roadmap covering statistics, Excel, SQL, BI, Python, and communication skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T09:14:12Z",
+            "owner": "mtahiraslan",
+            "repo": "data-analyst-roadmap",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Engineer Roadmap",
+          "description": "AI engineering roadmap focused on LLM applications, RAG, agents, and LLMOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-05T06:16:59Z",
+            "owner": "dswh",
+            "repo": "ai-engineer-roadmap",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science Roadmap",
+          "description": "Data science roadmap built from learning paths used across major tech companies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-10T10:50:10Z",
+            "owner": "boringPpl",
+            "repo": "data-science-roadmap",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Learning",
+          "description": "Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T02:40:50Z",
+            "owner": "Haozhe-Xing",
+            "repo": "agent_learning",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Systems Engineering Roadmap",
+          "description": "Practical LLM systems roadmap covering internals, inference, RAG, agents, evaluation, and production architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T09:47:21Z",
+            "owner": "h9-tec",
+            "repo": "llm-systems-engineering-roadmap",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Engineering Handbook",
+          "description": "Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:26:34Z",
+            "owner": "keyuchen21",
+            "repo": "agentic-engineering-handbook",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forward Deployed Engineer Roadmap",
+          "description": "Roadmap of a Forward Deployed Engineer who partners with customers to design, build, and deploy production-ready enterprise systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T17:50:01Z",
+            "owner": "thecoder8890",
+            "repo": "forward-deployed-engineer-roadmap",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic AI Roadmap with Notes and Projects",
+          "description": "Agentic AI curriculum focused on building production-grade LangGraph systems and supporting resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:59:56Z",
+            "owner": "AdilShamim8",
+            "repo": "Agentic-AI-Roadmap-with-Notes-and-Projects",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI, Governance & GTM Career Roadmaps",
+          "description": "Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T16:37:04Z",
+            "owner": "Hardik-369",
+            "repo": "ROADMAP",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Engineering Roadmap",
+          "description": "Production-aware AI agent roadmap covering MCP, memory, RAG, workflows, evaluation, safety, and multi-agent systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T16:15:56Z",
+            "owner": "audi0417",
+            "repo": "agent-engineering-roadmap",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "AI / Machine Learning / Data Science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacker Roadmap",
+          "description": "Archived guide for beginner pentesters with curated tools and references.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-10-16T11:21:45Z",
+            "owner": "sundowndev",
+            "repo": "hacker-roadmap",
+            "stars": 15551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedded Systems Engineering Roadmap",
+          "description": "Embedded systems roadmap for beginners and practitioners, with curated learning resources and supporting material.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T09:25:55Z",
+            "owner": "m3y54m",
+            "repo": "Embedded-Engineering-Roadmap",
+            "stars": 12775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematics Roadmap",
+          "description": "Comprehensive mathematics roadmap spanning foundations, core fields, and advanced topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-29T18:34:40Z",
+            "owner": "TalalAlrawajfeh",
+            "repo": "mathematics-roadmap",
+            "stars": 3534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Software Design and Architecture Roadmap",
+          "description": "Software design and architecture roadmap for generalist developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-10T16:48:46Z",
+            "owner": "stemmlerjs",
+            "repo": "software-design-and-architecture-roadmap",
+            "stars": 3407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI/UX Designer Roadmap",
+          "description": "UI/UX design roadmap covering the main skills and disciplines in product design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-04T18:40:42Z",
+            "owner": "togiberlin",
+            "repo": "ui-ux-designer-roadmap",
+            "stars": 2179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Quality Assurance Roadmap",
+          "description": "Quality assurance and test automation roadmap for software engineers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-04T11:08:57Z",
+            "owner": "fityanos",
+            "repo": "awesome-quality-assurance-roadmap",
+            "stars": 2154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Software Architect Roadmap",
+          "description": "Software architecture roadmap for developers moving toward architect responsibilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-03-05T14:25:02Z",
+            "owner": "AlaaAttya",
+            "repo": "software-architect-roadmap",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FPGA / ASIC Engineering Roadmap",
+          "description": "FPGA and ASIC engineering roadmap for learners targeting digital hardware and chip design roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-31T17:43:28Z",
+            "owner": "m3y54m",
+            "repo": "FPGA-ASIC-Roadmap",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Design Roadmap",
+          "description": "System design and architecture roadmap focused on large-scale design topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-11T14:16:55Z",
+            "owner": "moshafiei",
+            "repo": "system-design-master-plan",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "University Degree Roadmap",
+          "description": "Curated collection of online learning paths and university-level course material.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-02-19T19:26:54Z",
+            "owner": "IlIllII",
+            "repo": "collecobrary",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Forensic (DFIR) Specialist Roadmap",
+          "description": "Digital forensics and incident response roadmap for learners building DFIR skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-20T08:29:44Z",
+            "owner": "Yousha",
+            "repo": "DFIR-Specialist-Roadmap",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:56:35.937Z",
+    "original_repository": "liuchong/awesome-roadmaps",
+    "original_repository_sha": "7b5705c02ab4460f8a1eb04d96e0de6e52de85e3",
+    "enhanced_repository": "enhansome/enhansome-roadmaps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Roadmaps with stars"
+  }
+}
