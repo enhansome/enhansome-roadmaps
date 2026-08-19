@@ -111,7 +111,7 @@
             "last_commit": "2026-08-18T11:56:04Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 364905
+            "stars": 364913
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-02-05T13:09:26Z",
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 81810
+            "stars": 81815
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65577
+            "stars": 65597
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31214
+            "stars": 31215
           }
         },
         {
@@ -839,8 +839,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:36:11.387Z",
+    "last_updated": "2026-08-19T12:53:51.765Z",
     "original_repository": "liuchong/awesome-roadmaps",
+    "original_repository_id": 165398433,
     "original_repository_sha": "7b5705c02ab4460f8a1eb04d96e0de6e52de85e3",
     "enhanced_repository": "enhansome/enhansome-roadmaps",
     "enhanced_repository_description": null,
