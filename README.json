@@ -15,7 +15,7 @@
             "last_commit": "2023-02-13T08:08:20Z",
             "owner": "darius-khll",
             "repo": "golang-developer-roadmap",
-            "stars": 18425
+            "stars": 18424
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T10:12:19Z",
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3538
+            "stars": 3539
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365301
+            "stars": 365340
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-01-29T14:44:09Z",
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19631
+            "stars": 19629
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-05-08T06:31:34Z",
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7780
+            "stars": 7779
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-12-24T17:48:05Z",
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5937
+            "stars": 5938
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-07-14T15:33:20Z",
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20325
+            "stars": 20328
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2025-01-31T14:57:17Z",
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5775
+            "stars": 5776
           }
         }
       ],
@@ -405,7 +405,7 @@
             "last_commit": "2026-02-05T13:09:26Z",
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 81955
+            "stars": 81967
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 66691
+            "stars": 66811
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39549
+            "stars": 39547
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31220
+            "stars": 31219
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2022-01-25T21:09:00Z",
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12749
+            "stars": 12750
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-23T02:50:24Z",
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 452
+            "stars": 456
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-03T15:26:34Z",
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2023-10-16T11:21:45Z",
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15566
+            "stars": 15564
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-07-23T09:25:55Z",
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 12929
+            "stars": 12936
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2024-12-29T18:34:40Z",
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3547
+            "stars": 3549
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2023-02-10T16:48:46Z",
             "owner": "stemmlerjs",
             "repo": "software-design-and-architecture-roadmap",
-            "stars": 3404
+            "stars": 3405
           }
         },
         {
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:02.758Z",
+    "last_updated": "2026-08-25T05:46:38.922Z",
     "original_repository": "liuchong/awesome-roadmaps",
     "original_repository_id": 165398433,
     "original_repository_sha": "7b5705c02ab4460f8a1eb04d96e0de6e52de85e3",
