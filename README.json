@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Go developer in 2020",
+            "homepage": null,
             "id": 181462414,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-13T08:08:20Z",
+            "open_issues": 25,
             "owner": "darius-khll",
             "repo": "golang-developer-roadmap",
-            "stars": 18424
+            "stars": 18424,
+            "topics": [
+              "go",
+              "golang",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Developer Roadmap to becoming a Node.js developer in 2019",
+            "homepage": null,
             "id": 172471552,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-12T21:05:33Z",
+            "open_issues": 6,
             "owner": "aliyr",
             "repo": "Nodejs-Developer-Roadmap",
-            "stars": 4795
+            "stars": 4796,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -42,12 +56,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Java developer in 2026",
+            "homepage": "https://qrcn.link/sakib?utm_source=github-s4kibs4mi",
             "id": 182950817,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-03-15T18:46:28Z",
+            "open_issues": 0,
             "owner": "s4kibs4mi",
             "repo": "java-developer-roadmap",
-            "stars": 4528
+            "stars": 4528,
+            "topics": [
+              "guidelines",
+              "java",
+              "jee",
+              "roadmap",
+              "software-architecture",
+              "software-development",
+              "software-engineering",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is PHP Developer Roadmap ",
+            "homepage": null,
             "id": 320068871,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-06T13:00:32Z",
+            "open_issues": 15,
             "owner": "thecodeholic",
             "repo": "php-developer-roadmap",
-            "stars": 3657
+            "stars": 3657,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -74,12 +107,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The roadmap for learning the C++ programming language for beginners and experienced devs.",
+            "homepage": "https://salmer.github.io/CppDeveloperRoadmap",
             "id": 366721422,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T10:12:19Z",
+            "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3539
+            "stars": 3540,
+            "topics": [
+              "cpp",
+              "developer-experience",
+              "diy",
+              "gitbook",
+              "junior",
+              "junior-developers",
+              "learning",
+              "middle",
+              "middle-developers",
+              "roadmap",
+              "self-study"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -90,12 +140,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Rust Web Developer in 2022",
+            "homepage": null,
             "id": 184176820,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-04-27T05:13:14Z",
+            "open_issues": 6,
             "owner": "anshulrgoyal",
             "repo": "rust-web-developer-roadmap",
-            "stars": 1843
+            "stars": 1843,
+            "topics": [
+              "backend",
+              "roadmap",
+              "rust",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -112,12 +172,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "homepage": "https://roadmap.sh",
             "id": 85077558,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T14:35:38Z",
+            "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365786
+            "stars": 365794,
+            "topics": [
+              "angular-roadmap",
+              "backend-roadmap",
+              "blockchain-roadmap",
+              "computer-science",
+              "dba-roadmap",
+              "developer-roadmap",
+              "devops-roadmap",
+              "frontend-roadmap",
+              "go-roadmap",
+              "java-roadmap",
+              "javascript-roadmap",
+              "nodejs-roadmap",
+              "python-roadmap",
+              "qa-roadmap",
+              "react-roadmap",
+              "roadmap",
+              "software-architect-roadmap",
+              "vue-roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -128,12 +212,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming an ASP.NET Core developer in 2026",
+            "homepage": null,
             "id": 169371413,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-29T14:44:09Z",
+            "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19633
+            "stars": 19633,
+            "topics": [
+              "asp-net-core",
+              "aspnet-core",
+              "aspnetcore",
+              "blazor",
+              "csharp",
+              "dotnet",
+              "dotnet-core",
+              "razor",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -144,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a React developer",
+            "homepage": null,
             "id": 137583435,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-16T12:34:44Z",
+            "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18920
+            "stars": 18920,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -160,12 +264,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend tech guide and curated collection of frontend materials",
+            "homepage": null,
             "id": 374018112,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-08T04:22:24Z",
+            "open_issues": 1,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4686
+            "stars": 4686,
+            "topics": [
+              "angular",
+              "css",
+              "frontend",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "react",
+              "reactjs",
+              "vuejs",
+              "webdev",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -176,12 +297,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Developer Roadmap",
+            "homepage": null,
             "id": 138805941,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-02-14T17:14:42Z",
+            "open_issues": 13,
             "owner": "sulco",
             "repo": "angular-developer-roadmap",
-            "stars": 948
+            "stars": 948,
+            "topics": [
+              "angular",
+              "frontend"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -192,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Laravel developer",
+            "homepage": null,
             "id": 253470883,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-27T09:45:02Z",
+            "open_issues": 1,
             "owner": "Hasnayeen",
             "repo": "laravel-developer-roadmap",
-            "stars": 732
+            "stars": 732,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -208,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Vue.js developer in 2019",
+            "homepage": null,
             "id": 140091846,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-05-07T12:10:47Z",
+            "open_issues": 0,
             "owner": "flaviocopes",
             "repo": "vue-developer-roadmap",
-            "stars": 527
+            "stars": 527,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -224,12 +363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Developer Roadmap",
+            "homepage": null,
             "id": 354563961,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-21T07:02:24Z",
+            "open_issues": 1,
             "owner": "saifaustcse",
             "repo": "angular-developer-roadmap",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "angular-developer",
+              "angular-developer-roadmap",
+              "angular-roadmap",
+              "developer-roadmap",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -240,12 +390,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗺️ Developer Roadmaps — 20 career paths, 870+ topics, 1,880+ free resources. PWA, certifications, community-driven. Your free guide from beginner to senior dev.",
+            "homepage": "https://rudra496.github.io/devroadmaps",
             "id": 1193098809,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:44:13Z",
+            "open_issues": 0,
             "owner": "rudra496",
             "repo": "devroadmaps",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ai",
+              "backend",
+              "beginner-friendly",
+              "career",
+              "career-roadmap",
+              "developer-roadmap",
+              "developer-tools",
+              "devops",
+              "education",
+              "frontend",
+              "fullstack",
+              "hacktoberfest",
+              "javascript",
+              "learn-to-code",
+              "learning",
+              "open-source",
+              "programming",
+              "pwa",
+              "roadmaps",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -256,12 +432,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend developer roadmap.",
+            "homepage": "https://yousha.blog.ir/",
             "id": 1081747200,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-10-23T08:30:43Z",
+            "open_issues": 0,
             "owner": "Yousha",
             "repo": "Frontend-Developer-Roadmap",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "frontend",
+              "roadmap",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -278,12 +463,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.",
+            "homepage": null,
             "id": 433655415,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T06:31:34Z",
+            "open_issues": 13,
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7779
+            "stars": 7779,
+            "topics": [
+              "android",
+              "android-development",
+              "jetpack",
+              "jetpack-compose",
+              "kotlin",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -294,12 +491,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming an iOS developer in 2018.",
+            "homepage": null,
             "id": 121970354,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-01-25T09:57:30Z",
+            "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6420
+            "stars": 6420,
+            "topics": [
+              "architecture",
+              "interview",
+              "ios",
+              "materials",
+              "objective-c",
+              "problem-solving",
+              "roadmap",
+              "swift",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -310,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly Subjective Roadmap to Flutter Development",
+            "homepage": null,
             "id": 253254795,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-12-24T17:48:05Z",
+            "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5938
+            "stars": 5938,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -326,12 +543,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Developer Roadmap 2020",
+            "homepage": null,
             "id": 182548408,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2021-01-18T14:03:21Z",
+            "open_issues": 8,
             "owner": "mobile-roadmap",
             "repo": "android-developer-roadmap",
-            "stars": 4088
+            "stars": 4088,
+            "topics": [
+              "android",
+              "development",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -348,12 +574,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevOps Roadmap for 2026. with learning resources",
+            "homepage": "https://newsletter.techworld-with-milan.com/",
             "id": 556191546,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T15:33:20Z",
+            "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20382
+            "stars": 20384,
+            "topics": [
+              "aws",
+              "azure",
+              "computer-science",
+              "continous-delivery",
+              "continuous-integration",
+              "developer-roadmap",
+              "devops",
+              "devops-roadmap",
+              "docker",
+              "go",
+              "grafana",
+              "jira",
+              "kubernetes",
+              "linux",
+              "prometheus",
+              "python",
+              "roadmap",
+              "sre",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -364,12 +615,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated platform engineering roadmap - in the form of a website",
+            "homepage": "https://mbianchidev.github.io/platform-engineering-roadmap/",
             "id": 705655448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:15:23Z",
+            "open_issues": 0,
             "owner": "mbianchidev",
             "repo": "platform-engineering-roadmap",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "platform-engineering",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -386,12 +645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Study Path for Game Programmer",
+            "homepage": null,
             "id": 75701562,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-28T01:05:23Z",
+            "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18694
+            "stars": 18694,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -402,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a game developer in 2022",
+            "homepage": null,
             "id": 90043697,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-31T14:57:17Z",
+            "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5778
+            "stars": 5778,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -424,12 +693,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "homepage": "https://mlabonne.github.io/blog/",
             "id": 655099582,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-02-05T13:09:26Z",
+            "open_issues": 89,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 82062
+            "stars": 82065,
+            "topics": [
+              "course",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -440,12 +720,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "homepage": null,
             "id": 344190478,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:11:48Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67536
+            "stars": 67564,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "gan",
+              "machine-learning",
+              "microsoft-for-beginners",
+              "nlp",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -456,12 +752,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+            "homepage": null,
             "id": 70905478,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-27T13:18:32Z",
+            "open_issues": 91,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39552
+            "stars": 39553,
+            "topics": [
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -472,12 +775,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+            "homepage": "https://i.am.ai/roadmap",
             "id": 306977633,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-12T14:59:30Z",
+            "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31217
+            "stars": 31216,
+            "topics": [
+              "ai",
+              "ai-roadmap",
+              "artificial-intelligence",
+              "data-analysis",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "roadmap",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -488,12 +807,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a data engineer in 2021",
+            "homepage": "https://datastack.tv",
             "id": 292293462,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-25T21:09:00Z",
+            "open_issues": 30,
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12747
+            "stars": 12747,
+            "topics": [
+              "cloud",
+              "data-engineer-roadmap",
+              "data-engineering",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -504,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toturials coming with the \"data science roadmap\" picture.",
+            "homepage": "http://nirvacana.com/thoughts/becoming-a-data-scientist/",
             "id": 93372410,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-11T08:26:32Z",
+            "open_issues": 0,
             "owner": "MrMimic",
             "repo": "data-scientist-roadmap",
-            "stars": 7388
+            "stars": 7388,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -520,12 +854,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":satellite: All You Need to Know About Deep Learning - A kick-starter",
+            "homepage": null,
             "id": 164380611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-22T12:18:32Z",
+            "open_issues": 2,
             "owner": "instillai",
             "repo": "deep-learning-roadmap",
-            "stars": 4638
+            "stars": 4638,
+            "topics": [
+              "deep-learning",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -536,12 +878,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP",
+            "homepage": "https://www.reddit.com/r/MachineLearning/comments/d8jheo/p_natural_language_processing_roadmap_and_keyword/",
             "id": 209493770,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-09-29T07:07:52Z",
+            "open_issues": 2,
             "owner": "graykode",
             "repo": "nlp-roadmap",
-            "stars": 3266
+            "stars": 3266,
+            "topics": [
+              "keyword",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "probability-statistics",
+              "roadmap",
+              "textmining"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -552,12 +907,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Based on my own experience, I believe this roadmap provides clear answers to all the key questions about becoming a data analyst from scratch, including which technologies and programming languages to learn, what soft skills are essential, and how to start a professional career in this field.",
+            "homepage": null,
             "id": 606301599,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-14T09:14:12Z",
+            "open_issues": 1,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 994
+            "stars": 994,
+            "topics": [
+              "blogs",
+              "businessintelligence",
+              "courses",
+              "data",
+              "dataanalysis",
+              "dataanalyst",
+              "excel",
+              "interview",
+              "mtahiraslan",
+              "powerbi",
+              "programming",
+              "python",
+              "resources",
+              "resume",
+              "roadmap",
+              "softskills",
+              "sql",
+              "statistics",
+              "tableau",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -568,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A roadmap describing the required skills, learning resources and sample tools to become an AI Engineer ",
+            "homepage": "https://youtu.be/br8u4JwXMBU",
             "id": 787380204,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-05T06:16:59Z",
+            "open_issues": 0,
             "owner": "dswh",
             "repo": "ai-engineer-roadmap",
-            "stars": 673
+            "stars": 673,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -584,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups",
+            "homepage": null,
             "id": 140776100,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-10T10:50:10Z",
+            "open_issues": 4,
             "owner": "boringPpl",
             "repo": "data-science-roadmap",
-            "stars": 636
+            "stars": 636,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -600,12 +991,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, LangChain, LangGraph, MCP, and agentic RL.｜从零开始学 AI Agent 开发 | 系统、全面、实战导向的 Agent 开发教程 | 每日自动追踪 arXiv 最新论文 | Learn AI Agent Development from Scratch",
+            "homepage": "https://haozhe-xing.github.io/agent_learning/",
             "id": 1180445240,
             "language": "HTML",
-            "last_commit": "2026-08-28T03:27:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:37:10Z",
+            "open_issues": 3,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 466
+            "stars": 467,
+            "topics": [
+              "agent-learning",
+              "agentic-workflow",
+              "ai-agent",
+              "ai-agent-tutorial",
+              "dspy",
+              "grpo",
+              "langchain",
+              "large-language-models",
+              "llm",
+              "mcp",
+              "memory-system",
+              "multi-agents",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -616,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture.",
+            "homepage": null,
             "id": 1220885689,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-27T09:47:21Z",
+            "open_issues": 0,
             "owner": "h9-tec",
             "repo": "llm-systems-engineering-roadmap",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -632,12 +1047,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
+            "homepage": null,
             "id": 1264123054,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T15:26:34Z",
+            "open_issues": 1,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "agentic-engineering",
+              "agents",
+              "ai-agents",
+              "anthropic",
+              "claude-code",
+              "llm",
+              "mcp",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -648,12 +1077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A practical roadmap to become a Forward Deployed Engineer, from coding and systems design to customer problems, deployment, and impact.",
+            "homepage": null,
             "id": 1201363879,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T17:50:01Z",
+            "open_issues": 0,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -664,12 +1098,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive guide and resource collection for building sophisticated agentic AI systems with LangGraph.",
+            "homepage": null,
             "id": 1067631748,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T05:54:49Z",
+            "open_issues": 1,
             "owner": "AdilShamim8",
             "repo": "Agentic-AI-Roadmap-with-Notes-and-Projects",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "ai-agents",
+              "ai-engineer",
+              "ai-engineering",
+              "langgraph",
+              "langgraph-python"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -680,12 +1127,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech — AI Engineer, AI Governance Specialist, GTM Engineer, and more.",
+            "homepage": null,
             "id": 1303663929,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T16:59:35Z",
+            "open_issues": 0,
             "owner": "Hardik-369",
             "repo": "ROADMAP",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ai-engineer",
+              "ai-governance",
+              "ai-roadmap",
+              "ai-safety",
+              "artificial-intelligence",
+              "career-change",
+              "career-roadmap",
+              "go-to-market",
+              "gtm",
+              "learn-to-code",
+              "llm",
+              "machine-learning",
+              "sales-engineering",
+              "self-taught",
+              "tech-career"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -696,12 +1164,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bilingual hands-on roadmap for production-aware AI agents: MCP, memory, RAG, workflows, evaluation, safety, and agent colonies.",
+            "homepage": "https://audi0417.github.io/agent-engineering-roadmap/",
             "id": 1269210627,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T14:58:07Z",
+            "open_issues": 0,
             "owner": "audi0417",
             "repo": "agent-engineering-roadmap",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "agent-engineering",
+              "agent-workflow",
+              "ai-agents",
+              "ai-safety",
+              "course",
+              "evaluation",
+              "llm",
+              "mcp",
+              "memory",
+              "multi-agent",
+              "rag",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -718,12 +1204,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of hacking tools, resources and references to practice ethical hacking.",
+            "homepage": null,
             "id": 127752367,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-16T11:21:45Z",
+            "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15567
+            "stars": 15568,
+            "topics": [
+              "exploitation",
+              "frameworks",
+              "hacking",
+              "hacking-tool",
+              "hacktools",
+              "information-gathering",
+              "penetration-testing",
+              "pentest",
+              "pentesting",
+              "post-exploitation",
+              "roadmap",
+              "security",
+              "web-hacking"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -734,12 +1239,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources",
+            "homepage": null,
             "id": 670647679,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-07-23T09:25:55Z",
+            "open_issues": 3,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 12982
+            "stars": 12986,
+            "topics": [
+              "electronics",
+              "electronics-engineering",
+              "embedded",
+              "embedded-developer",
+              "embedded-engineer",
+              "embedded-software",
+              "embedded-systems",
+              "firmware",
+              "firmware-engineer",
+              "hardware",
+              "roadmap",
+              "software-engineer"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -750,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Roadmap to Mathematics",
+            "homepage": null,
             "id": 172679145,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-29T18:34:40Z",
+            "open_issues": 4,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3551
+            "stars": 3551,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -766,12 +1294,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧱 The software design and architecture roadmap for any developer",
+            "homepage": "https://solidbook.io",
             "id": 211570135,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-10T16:48:46Z",
+            "open_issues": 3,
             "owner": "stemmlerjs",
             "repo": "software-design-and-architecture-roadmap",
-            "stars": 3404
+            "stars": 3404,
+            "topics": [
+              "architecture",
+              "roadmap",
+              "software-design"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -782,12 +1319,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap on becoming a UI/UX designer in 2017",
+            "homepage": null,
             "id": 92593282,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-04T18:40:42Z",
+            "open_issues": 18,
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2183
+            "stars": 2183,
+            "topics": [
+              "roadmap",
+              "ui",
+              "ui-design",
+              "ux",
+              "ux-design"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -798,12 +1346,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
+            "homepage": null,
             "id": 121133891,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-04T11:08:57Z",
+            "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2170
+            "stars": 2170,
+            "topics": [
+              "api-testing",
+              "automation-test",
+              "awesome",
+              "awesome-list",
+              "career",
+              "e2e-testing",
+              "qa",
+              "quality-engineering",
+              "roadmap",
+              "software-testing",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -814,12 +1379,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software architect roadmap",
+            "homepage": null,
             "id": 129790027,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-05T14:25:02Z",
+            "open_issues": 3,
             "owner": "AlaaAttya",
             "repo": "software-architect-roadmap",
-            "stars": 1079
+            "stars": 1079,
+            "topics": [
+              "application-architect",
+              "architect",
+              "architecture",
+              "enterprise-architect",
+              "roadmap",
+              "skills",
+              "software-engineering",
+              "solutions-architect"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -830,12 +1409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A roadmap for those who want to build a career as an FPGA / ASIC Engineer",
+            "homepage": null,
             "id": 674590622,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-31T17:43:28Z",
+            "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 679
+            "stars": 679,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -846,12 +1430,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":1st_place_medal: Roadmap to become a system design and architecture master",
+            "homepage": null,
             "id": 271030509,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-11T14:16:55Z",
+            "open_issues": 3,
             "owner": "moshafiei",
             "repo": "system-design-master-plan",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "project-planning",
+              "roadmap",
+              "software-architecture",
+              "software-development",
+              "software-engineering",
+              "study-plan",
+              "system-design",
+              "system-design-interview",
+              "system-design-roadmap",
+              "system-design-template"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -862,12 +1462,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making online learning fun and easy.",
+            "homepage": "https://shapesofknowledge.io",
             "id": 409982248,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-02-19T19:26:54Z",
+            "open_issues": 14,
             "owner": "IlIllII",
             "repo": "collecobrary",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "awesome",
+              "courses",
+              "d3",
+              "education",
+              "learning",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         },
@@ -878,12 +1490,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital forensic (DFIR) specialist roadmap.",
+            "homepage": "https://yousha.blog.ir/",
             "id": 1080519516,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T08:29:44Z",
+            "open_issues": 0,
             "owner": "Yousha",
             "repo": "DFIR-Specialist-Roadmap",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "chfi",
+              "cyber-defense",
+              "cyber-forensics",
+              "dfir",
+              "digital-forensics",
+              "incident-response",
+              "osint",
+              "roadmap",
+              "security-certifications"
+            ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
         }
@@ -892,15 +1519,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:09.129Z",
+    "last_updated": "2026-08-29T04:14:19.586Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of roadmaps.",
+      "homepage": null,
       "id": 165398433,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-03T13:48:51Z",
+      "open_issues": 0,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7242
+      "stars": 7246,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources",
+        "roadmap"
+      ]
     },
     "original_repository_sha": "7b5705c02ab4460f8a1eb04d96e0de6e52de85e3",
     "enhanced_repository": "enhansome/enhansome-roadmaps",
