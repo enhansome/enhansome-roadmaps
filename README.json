@@ -65,7 +65,7 @@
             "open_issues": 0,
             "owner": "s4kibs4mi",
             "repo": "java-developer-roadmap",
-            "stars": 4540,
+            "stars": 4541,
             "topics": [
               "guidelines",
               "java",
@@ -116,7 +116,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3554,
+            "stars": 3555,
             "topics": [
               "cpp",
               "developer-experience",
@@ -181,7 +181,7 @@
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 367596,
+            "stars": 367675,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19643,
+            "stars": 19640,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18916,
+            "stars": 18915,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4693,
+            "stars": 4694,
             "topics": [
               "angular",
               "css",
@@ -472,7 +472,7 @@
             "open_issues": 13,
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7788,
+            "stars": 7787,
             "topics": [
               "android",
               "android-development",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5939,
+            "stars": 5941,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -552,7 +552,7 @@
             "open_issues": 8,
             "owner": "mobile-roadmap",
             "repo": "android-developer-roadmap",
-            "stars": 4090,
+            "stars": 4088,
             "topics": [
               "android",
               "development",
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20567,
+            "stars": 20571,
             "topics": [
               "aws",
               "azure",
@@ -616,11 +616,11 @@
           "repo_info": {
             "archived": false,
             "description": "An opinionated platform engineering roadmap - in the form of a website",
-            "homepage": "https://mbianchidev.github.io/platform-engineering-roadmap/",
+            "homepage": "https://platform-engineering-roadmap.mbianchi.dev/",
             "id": 705655448,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:14:56Z",
+            "last_commit": "2026-09-18T19:13:00Z",
             "open_issues": 0,
             "owner": "mbianchidev",
             "repo": "platform-engineering-roadmap",
@@ -654,7 +654,7 @@
             "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18710,
+            "stars": 18709,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -675,7 +675,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5780,
+            "stars": 5779,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -702,7 +702,7 @@
             "open_issues": 90,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 83015,
+            "stars": 83022,
             "topics": [
               "course",
               "large-language-models",
@@ -729,7 +729,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68684,
+            "stars": 68726,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -761,7 +761,7 @@
             "open_issues": 91,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39558,
+            "stars": 39557,
             "topics": [
               "deep-learning"
             ]
@@ -784,7 +784,7 @@
             "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31233,
+            "stars": 31236,
             "topics": [
               "ai",
               "ai-roadmap",
@@ -842,7 +842,7 @@
             "open_issues": 0,
             "owner": "MrMimic",
             "repo": "data-scientist-roadmap",
-            "stars": 7387,
+            "stars": 7389,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -916,7 +916,7 @@
             "open_issues": 2,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 1048,
+            "stars": 1049,
             "topics": [
               "blogs",
               "businessintelligence",
@@ -1021,6 +1021,36 @@
         },
         {
           "node_type": "item",
+          "title": "Agentic Engineering Handbook",
+          "description": "Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
+            "homepage": null,
+            "id": 1264123054,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-03T15:26:34Z",
+            "open_issues": 1,
+            "owner": "keyuchen21",
+            "repo": "agentic-engineering-handbook",
+            "stars": 213,
+            "topics": [
+              "agentic-engineering",
+              "agents",
+              "ai-agents",
+              "anthropic",
+              "claude-code",
+              "llm",
+              "mcp",
+              "openai"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
           "title": "LLM Systems Engineering Roadmap",
           "description": "Practical LLM systems roadmap covering internals, inference, RAG, agents, evaluation, and production architecture.",
           "children": [],
@@ -1042,36 +1072,6 @@
         },
         {
           "node_type": "item",
-          "title": "Agentic Engineering Handbook",
-          "description": "Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
-            "homepage": null,
-            "id": 1264123054,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-03T15:26:34Z",
-            "open_issues": 1,
-            "owner": "keyuchen21",
-            "repo": "agentic-engineering-handbook",
-            "stars": 189,
-            "topics": [
-              "agentic-engineering",
-              "agents",
-              "ai-agents",
-              "anthropic",
-              "claude-code",
-              "llm",
-              "mcp",
-              "openai"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:09.129Z"
-        },
-        {
-          "node_type": "item",
           "title": "Forward Deployed Engineer Roadmap",
           "description": "Roadmap of a Forward Deployed Engineer who partners with customers to design, build, and deploy production-ready enterprise systems.",
           "children": [],
@@ -1086,7 +1086,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1213,7 +1213,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15600,
+            "stars": 15601,
             "topics": [
               "exploitation",
               "frameworks",
@@ -1248,7 +1248,7 @@
             "open_issues": 3,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13202,
+            "stars": 13207,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1282,7 +1282,7 @@
             "open_issues": 4,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3571,
+            "stars": 3572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1355,7 +1355,7 @@
             "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2174,
+            "stars": 2175,
             "topics": [
               "api-testing",
               "automation-test",
@@ -1418,7 +1418,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 690,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:56:58.561Z",
+    "last_updated": "2026-09-19T14:21:46.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
@@ -1528,10 +1528,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-03T13:48:51Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7351,
+      "stars": 7353,
       "topics": [
         "awesome",
         "awesome-list",
