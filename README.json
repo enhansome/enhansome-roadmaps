@@ -116,7 +116,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3565,
+            "stars": 3567,
             "topics": [
               "cpp",
               "developer-experience",
@@ -177,11 +177,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:51:11Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-06T08:23:32Z",
+            "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 368955,
+            "stars": 369003,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19658,
+            "stars": 19659,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18909,
+            "stars": 18908,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20687,
+            "stars": 20692,
             "topics": [
               "aws",
               "azure",
@@ -702,7 +702,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 83294,
+            "stars": 83302,
             "topics": [
               "course",
               "large-language-models",
@@ -729,7 +729,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69471,
+            "stars": 69493,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -761,7 +761,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39569,
+            "stars": 39571,
             "topics": [
               "deep-learning"
             ]
@@ -842,7 +842,7 @@
             "open_issues": 0,
             "owner": "MrMimic",
             "repo": "data-scientist-roadmap",
-            "stars": 7397,
+            "stars": 7398,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -916,7 +916,7 @@
             "open_issues": 2,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 1088,
+            "stars": 1090,
             "topics": [
               "blogs",
               "businessintelligence",
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1031,11 +1031,11 @@
             "id": 1264123054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T00:19:32Z",
+            "last_commit": "2026-10-05T22:31:10Z",
             "open_issues": 1,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 531,
+            "stars": 533,
             "topics": [
               "agentic-engineering",
               "agents",
@@ -1065,7 +1065,7 @@
             "open_issues": 0,
             "owner": "h9-tec",
             "repo": "llm-systems-engineering-roadmap",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1086,7 +1086,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1213,7 +1213,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15632,
+            "stars": 15634,
             "topics": [
               "exploitation",
               "frameworks",
@@ -1245,10 +1245,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-04T00:39:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13378,
+            "stars": 13385,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1314,6 +1314,39 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome Quality Assurance Roadmap",
+          "description": "Quality assurance and test automation roadmap for software engineers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
+            "homepage": null,
+            "id": 121133891,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-06-04T11:08:57Z",
+            "open_issues": 9,
+            "owner": "fityanos",
+            "repo": "awesome-quality-assurance-roadmap",
+            "stars": 2188,
+            "topics": [
+              "api-testing",
+              "automation-test",
+              "awesome",
+              "awesome-list",
+              "career",
+              "e2e-testing",
+              "qa",
+              "quality-engineering",
+              "roadmap",
+              "software-testing",
+              "testing"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
           "title": "UI/UX Designer Roadmap",
           "description": "UI/UX design roadmap covering the main skills and disciplines in product design.",
           "children": [],
@@ -1341,39 +1374,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome Quality Assurance Roadmap",
-          "description": "Quality assurance and test automation roadmap for software engineers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
-            "homepage": null,
-            "id": 121133891,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-04T11:08:57Z",
-            "open_issues": 9,
-            "owner": "fityanos",
-            "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2187,
-            "topics": [
-              "api-testing",
-              "automation-test",
-              "awesome",
-              "awesome-list",
-              "career",
-              "e2e-testing",
-              "qa",
-              "quality-engineering",
-              "roadmap",
-              "software-testing",
-              "testing"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:09.129Z"
-        },
-        {
-          "node_type": "item",
           "title": "Software Architect Roadmap",
           "description": "Software architecture roadmap for developers moving toward architect responsibilities.",
           "children": [],
@@ -1388,7 +1388,7 @@
             "open_issues": 3,
             "owner": "AlaaAttya",
             "repo": "software-architect-roadmap",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "application-architect",
               "architect",
@@ -1418,7 +1418,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 702,
+            "stars": 703,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T19:38:17.790Z",
+    "last_updated": "2026-10-06T10:33:12.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
@@ -1531,7 +1531,7 @@
       "open_issues": 4,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7381,
+      "stars": 7383,
       "topics": [
         "awesome",
         "awesome-list",
