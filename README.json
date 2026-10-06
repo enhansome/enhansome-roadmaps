@@ -116,7 +116,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3567,
+            "stars": 3566,
             "topics": [
               "cpp",
               "developer-experience",
@@ -177,11 +177,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:23:32Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-06T10:51:32Z",
+            "open_issues": 1,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 369003,
+            "stars": 369025,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -500,7 +500,7 @@
             "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6418,
+            "stars": 6417,
             "topics": [
               "architecture",
               "interview",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5940,
+            "stars": 5939,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20692,
+            "stars": 20695,
             "topics": [
               "aws",
               "azure",
@@ -675,7 +675,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5780,
+            "stars": 5779,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -702,7 +702,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 83302,
+            "stars": 83310,
             "topics": [
               "course",
               "large-language-models",
@@ -729,7 +729,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69493,
+            "stars": 69499,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -761,7 +761,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39571,
+            "stars": 39570,
             "topics": [
               "deep-learning"
             ]
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1035,7 +1035,7 @@
             "open_issues": 1,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 533,
+            "stars": 535,
             "topics": [
               "agentic-engineering",
               "agents",
@@ -1065,7 +1065,7 @@
             "open_issues": 0,
             "owner": "h9-tec",
             "repo": "llm-systems-engineering-roadmap",
-            "stars": 203,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 4,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13385,
+            "stars": 13389,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1303,7 +1303,7 @@
             "open_issues": 3,
             "owner": "stemmlerjs",
             "repo": "software-design-and-architecture-roadmap",
-            "stars": 3410,
+            "stars": 3409,
             "topics": [
               "architecture",
               "roadmap",
@@ -1439,7 +1439,7 @@
             "open_issues": 3,
             "owner": "moshafiei",
             "repo": "system-design-master-plan",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "project-planning",
               "roadmap",
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:12.004Z",
+    "last_updated": "2026-10-06T17:09:35.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
