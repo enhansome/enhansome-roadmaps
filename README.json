@@ -65,7 +65,7 @@
             "open_issues": 0,
             "owner": "s4kibs4mi",
             "repo": "java-developer-roadmap",
-            "stars": 4549,
+            "stars": 4550,
             "topics": [
               "guidelines",
               "java",
@@ -116,7 +116,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3569,
+            "stars": 3571,
             "topics": [
               "cpp",
               "developer-experience",
@@ -177,11 +177,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T16:41:47Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-19T14:54:57Z",
+            "open_issues": 4,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 369757,
+            "stars": 369872,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19669,
+            "stars": 19667,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18903,
+            "stars": 18901,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4698,
+            "stars": 4696,
             "topics": [
               "angular",
               "css",
@@ -472,7 +472,7 @@
             "open_issues": 13,
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7798,
+            "stars": 7800,
             "topics": [
               "android",
               "android-development",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5939,
+            "stars": 5938,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -552,7 +552,7 @@
             "open_issues": 8,
             "owner": "mobile-roadmap",
             "repo": "android-developer-roadmap",
-            "stars": 4088,
+            "stars": 4089,
             "topics": [
               "android",
               "development",
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20765,
+            "stars": 20766,
             "topics": [
               "aws",
               "azure",
@@ -624,13 +624,55 @@
             "open_issues": 0,
             "owner": "mbianchidev",
             "repo": "platform-engineering-roadmap",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "platform-engineering",
               "roadmap"
             ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wyrcan Engineering Roadmap",
+          "description": "Text-first 12-stage engineering curriculum covering systems, DevOps, cloud architecture, and MLOps with interactive checkpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
+            "homepage": "https://wyrcan-io.github.io/roadmap/",
+            "id": 1354668889,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-09-10T16:43:37Z",
+            "open_issues": 0,
+            "owner": "Wyrcan-io",
+            "repo": "roadmap",
+            "stars": 17,
+            "topics": [
+              "ai",
+              "aws",
+              "cloud",
+              "cloud-architecture",
+              "curriculum",
+              "devops",
+              "devops-roadmap",
+              "distributed-systems",
+              "docker",
+              "engineering-roadmap",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "opentelemetry",
+              "python",
+              "pytorch",
+              "roadmap",
+              "system-design",
+              "systems-engineering",
+              "terraform"
+            ]
+          },
+          "first_seen": "2026-10-19T17:26:42.316Z"
         }
       ],
       "title": "Infrastructure / Operations"
@@ -654,7 +696,7 @@
             "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18722,
+            "stars": 18724,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -675,7 +717,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5784,
+            "stars": 5785,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -699,10 +741,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-02-05T13:09:26Z",
-            "open_issues": 92,
+            "open_issues": 91,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 83823,
+            "stars": 84356,
             "topics": [
               "course",
               "large-language-models",
@@ -729,7 +771,7 @@
             "open_issues": 24,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69942,
+            "stars": 69991,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -784,7 +826,7 @@
             "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31308,
+            "stars": 31312,
             "topics": [
               "ai",
               "ai-roadmap",
@@ -916,7 +958,7 @@
             "open_issues": 2,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 1100,
+            "stars": 1103,
             "topics": [
               "blogs",
               "businessintelligence",
@@ -958,7 +1000,7 @@
             "open_issues": 0,
             "owner": "dswh",
             "repo": "ai-engineer-roadmap",
-            "stars": 688,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1000,7 +1042,7 @@
             "open_issues": 2,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 601,
+            "stars": 603,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1035,7 +1077,7 @@
             "open_issues": 1,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 553,
+            "stars": 555,
             "topics": [
               "agentic-engineering",
               "agents",
@@ -1086,7 +1128,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1103,7 +1145,7 @@
             "id": 1067631748,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T09:40:09Z",
+            "last_commit": "2026-10-19T05:59:24Z",
             "open_issues": 0,
             "owner": "AdilShamim8",
             "repo": "Agentic-AI-Roadmap-with-Notes-and-Projects",
@@ -1213,7 +1255,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15657,
+            "stars": 15660,
             "topics": [
               "exploitation",
               "frameworks",
@@ -1245,10 +1287,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-13T23:46:10Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13580,
+            "stars": 13596,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1282,7 +1324,7 @@
             "open_issues": 4,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3593,
+            "stars": 3596,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1388,7 +1430,7 @@
             "open_issues": 3,
             "owner": "AlaaAttya",
             "repo": "software-architect-roadmap",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "application-architect",
               "architect",
@@ -1513,13 +1555,45 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Navigator",
+          "description": "Interactive learning map with goal-based roadmaps and chapter prerequisites across STEM and other disciplines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open map of STEM: 1,400+ chapters across 11 disciplines with prerequisites, and goal roadmaps from the cosmos to rocket science and robotics.",
+            "homepage": "https://mohamedmuneerm.github.io/knowledge-navigator/",
+            "id": 1375974420,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-08T12:55:38Z",
+            "open_issues": 0,
+            "owner": "MohamedMuneerM",
+            "repo": "knowledge-navigator",
+            "stars": 5,
+            "topics": [
+              "curriculum",
+              "education",
+              "knowledge-graph",
+              "learning",
+              "mathematics",
+              "open-data",
+              "physics",
+              "roadmap",
+              "self-learning",
+              "stem"
+            ]
+          },
+          "first_seen": "2026-10-19T17:26:42.316Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:32:12.647Z",
+    "last_updated": "2026-10-19T17:26:42.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
@@ -1527,11 +1601,11 @@
       "id": 165398433,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-03T13:48:51Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-19T09:16:12Z",
+      "open_issues": 0,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7411,
+      "stars": 7412,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1540,7 +1614,7 @@
         "roadmap"
       ]
     },
-    "original_repository_sha": "7b5705c02ab4460f8a1eb04d96e0de6e52de85e3",
+    "original_repository_sha": "ec7fc34a49136b13aee8d63bd9374ad16c2a87dd",
     "enhanced_repository": "enhansome/enhansome-roadmaps",
     "enhanced_repository_description": null,
     "title": "Awesome Roadmaps with stars"
