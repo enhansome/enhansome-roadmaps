@@ -44,7 +44,7 @@
             "open_issues": 6,
             "owner": "aliyr",
             "repo": "Nodejs-Developer-Roadmap",
-            "stars": 4789,
+            "stars": 4788,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -181,7 +181,7 @@
             "open_issues": 4,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 370627,
+            "stars": 370722,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19664,
+            "stars": 19666,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18895,
+            "stars": 18893,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4697,
+            "stars": 4698,
             "topics": [
               "angular",
               "css",
@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "Hasnayeen",
             "repo": "laravel-developer-roadmap",
-            "stars": 730,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -472,7 +472,7 @@
             "open_issues": 13,
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7799,
+            "stars": 7800,
             "topics": [
               "android",
               "android-development",
@@ -500,7 +500,7 @@
             "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6416,
+            "stars": 6417,
             "topics": [
               "architecture",
               "interview",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5939,
+            "stars": 5942,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20847,
+            "stars": 20885,
             "topics": [
               "aws",
               "azure",
@@ -696,7 +696,7 @@
             "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18736,
+            "stars": 18735,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -717,7 +717,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5786,
+            "stars": 5787,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -744,7 +744,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 84739,
+            "stars": 84760,
             "topics": [
               "course",
               "large-language-models",
@@ -768,10 +768,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-10-23T23:55:14Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70327,
+            "stars": 70357,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -803,7 +803,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39598,
+            "stars": 39600,
             "topics": [
               "deep-learning"
             ]
@@ -858,7 +858,7 @@
             "open_issues": 29,
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12756,
+            "stars": 12757,
             "topics": [
               "cloud",
               "data-engineer-roadmap",
@@ -884,7 +884,7 @@
             "open_issues": 0,
             "owner": "MrMimic",
             "repo": "data-scientist-roadmap",
-            "stars": 7404,
+            "stars": 7405,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -958,7 +958,7 @@
             "open_issues": 2,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 1113,
+            "stars": 1117,
             "topics": [
               "blogs",
               "businessintelligence",
@@ -1000,7 +1000,7 @@
             "open_issues": 0,
             "owner": "dswh",
             "repo": "ai-engineer-roadmap",
-            "stars": 691,
+            "stars": 692,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 2,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 627,
+            "stars": 630,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1077,7 +1077,7 @@
             "open_issues": 2,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "agentic-engineering",
               "agents",
@@ -1128,7 +1128,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15672,
+            "stars": 15677,
             "topics": [
               "exploitation",
               "frameworks",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13718,
+            "stars": 13727,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1324,7 +1324,7 @@
             "open_issues": 4,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3605,
+            "stars": 3606,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1460,7 +1460,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 719,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:08:28.799Z",
+    "last_updated": "2026-10-29T17:24:05.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
@@ -1605,7 +1605,7 @@
       "open_issues": 2,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7434,
+      "stars": 7438,
       "topics": [
         "awesome",
         "awesome-list",
