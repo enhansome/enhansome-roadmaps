@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "darius-khll",
             "repo": "golang-developer-roadmap",
-            "stars": 18414,
+            "stars": 18415,
             "topics": [
               "go",
               "golang",
@@ -65,7 +65,7 @@
             "open_issues": 0,
             "owner": "s4kibs4mi",
             "repo": "java-developer-roadmap",
-            "stars": 4555,
+            "stars": 4554,
             "topics": [
               "guidelines",
               "java",
@@ -95,7 +95,7 @@
             "open_issues": 15,
             "owner": "thecodeholic",
             "repo": "php-developer-roadmap",
-            "stars": 3659,
+            "stars": 3658,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -177,11 +177,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T12:18:10Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-30T10:44:36Z",
+            "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 370722,
+            "stars": 370807,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19666,
+            "stars": 19667,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18893,
+            "stars": 18891,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "angular",
               "css",
@@ -472,7 +472,7 @@
             "open_issues": 13,
             "owner": "skydoves",
             "repo": "android-developer-roadmap",
-            "stars": 7800,
+            "stars": 7801,
             "topics": [
               "android",
               "android-development",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5942,
+            "stars": 5943,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -583,7 +583,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20885,
+            "stars": 20891,
             "topics": [
               "aws",
               "azure",
@@ -620,7 +620,7 @@
             "id": 705655448,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T00:08:43Z",
+            "last_commit": "2026-10-30T08:21:38Z",
             "open_issues": 0,
             "owner": "mbianchidev",
             "repo": "platform-engineering-roadmap",
@@ -696,7 +696,7 @@
             "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18735,
+            "stars": 18737,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -744,7 +744,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 84760,
+            "stars": 84791,
             "topics": [
               "course",
               "large-language-models",
@@ -771,7 +771,7 @@
             "open_issues": 28,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70357,
+            "stars": 70383,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -803,7 +803,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39600,
+            "stars": 39602,
             "topics": [
               "deep-learning"
             ]
@@ -826,7 +826,7 @@
             "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31322,
+            "stars": 31326,
             "topics": [
               "ai",
               "ai-roadmap",
@@ -905,7 +905,7 @@
             "open_issues": 2,
             "owner": "instillai",
             "repo": "deep-learning-roadmap",
-            "stars": 4636,
+            "stars": 4635,
             "topics": [
               "deep-learning",
               "resources"
@@ -1000,7 +1000,7 @@
             "open_issues": 0,
             "owner": "dswh",
             "repo": "ai-engineer-roadmap",
-            "stars": 692,
+            "stars": 691,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 2,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 630,
+            "stars": 632,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1073,7 +1073,7 @@
             "id": 1264123054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T02:32:29Z",
+            "last_commit": "2026-10-30T02:06:29Z",
             "open_issues": 2,
             "owner": "keyuchen21",
             "repo": "agentic-engineering-handbook",
@@ -1128,7 +1128,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1145,7 +1145,7 @@
             "id": 1067631748,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:59:24Z",
+            "last_commit": "2026-10-30T14:01:15Z",
             "open_issues": 0,
             "owner": "AdilShamim8",
             "repo": "Agentic-AI-Roadmap-with-Notes-and-Projects",
@@ -1158,6 +1158,43 @@
               "ai-engineering",
               "langgraph",
               "langgraph-python"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI, Governance & GTM Career Roadmaps",
+          "description": "Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech — AI Engineer, AI Governance Specialist, GTM Engineer, and more.",
+            "homepage": null,
+            "id": 1303663929,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-13T16:59:35Z",
+            "open_issues": 2,
+            "owner": "Hardik-369",
+            "repo": "ROADMAP",
+            "stars": 22,
+            "topics": [
+              "ai-engineer",
+              "ai-governance",
+              "ai-roadmap",
+              "ai-safety",
+              "artificial-intelligence",
+              "career-change",
+              "career-roadmap",
+              "go-to-market",
+              "gtm",
+              "learn-to-code",
+              "llm",
+              "machine-learning",
+              "sales-engineering",
+              "self-taught",
+              "tech-career"
             ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1195,43 +1232,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AI, Governance & GTM Career Roadmaps",
-          "description": "Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech — AI Engineer, AI Governance Specialist, GTM Engineer, and more.",
-            "homepage": null,
-            "id": 1303663929,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-08-13T16:59:35Z",
-            "open_issues": 2,
-            "owner": "Hardik-369",
-            "repo": "ROADMAP",
-            "stars": 21,
-            "topics": [
-              "ai-engineer",
-              "ai-governance",
-              "ai-roadmap",
-              "ai-safety",
-              "artificial-intelligence",
-              "career-change",
-              "career-roadmap",
-              "go-to-market",
-              "gtm",
-              "learn-to-code",
-              "llm",
-              "machine-learning",
-              "sales-engineering",
-              "self-taught",
-              "tech-career"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:09.129Z"
         }
       ],
       "title": "AI / Machine Learning / Data Science"
@@ -1255,7 +1255,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15677,
+            "stars": 15682,
             "topics": [
               "exploitation",
               "frameworks",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13727,
+            "stars": 13734,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1324,7 +1324,7 @@
             "open_issues": 4,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3606,
+            "stars": 3607,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1370,7 +1370,7 @@
             "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2200,
+            "stars": 2203,
             "topics": [
               "api-testing",
               "automation-test",
@@ -1460,7 +1460,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1572,7 +1572,7 @@
             "open_issues": 0,
             "owner": "MohamedMuneerM",
             "repo": "knowledge-navigator",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "curriculum",
               "education",
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:24:05.367Z",
+    "last_updated": "2026-10-30T16:59:42.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
@@ -1605,7 +1605,7 @@
       "open_issues": 2,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
-      "stars": 7438,
+      "stars": 7443,
       "topics": [
         "awesome",
         "awesome-list",
