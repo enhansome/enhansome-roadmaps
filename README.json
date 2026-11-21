@@ -95,7 +95,7 @@
             "open_issues": 15,
             "owner": "thecodeholic",
             "repo": "php-developer-roadmap",
-            "stars": 3649,
+            "stars": 3647,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -149,7 +149,7 @@
             "open_issues": 6,
             "owner": "anshulrgoyal",
             "repo": "rust-web-developer-roadmap",
-            "stars": 1842,
+            "stars": 1844,
             "topics": [
               "backend",
               "roadmap",
@@ -181,7 +181,7 @@
             "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372443,
+            "stars": 372498,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -221,7 +221,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19670,
+            "stars": 19669,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18885,
+            "stars": 18884,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -269,7 +269,7 @@
             "id": 374018112,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T07:45:02Z",
+            "last_commit": "2026-11-21T09:28:41Z",
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
@@ -427,6 +427,48 @@
         },
         {
           "node_type": "item",
+          "title": "Backend Roadmap",
+          "description": "Free curriculum of hands-on modules covering backend engineering, system design, DevOps, and GenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source, hands-on curriculum for backend engineering, system design, cloud/DevOps and GenAI — built in the open. Contributors welcome.",
+            "homepage": "https://backendroadmap.com",
+            "id": 1311757383,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-21T13:39:33Z",
+            "open_issues": 50,
+            "owner": "TapanKumarBarik",
+            "repo": "Backend-roadmap",
+            "stars": 7,
+            "topics": [
+              "ai-agents",
+              "backend",
+              "backend-development",
+              "curriculum",
+              "design-patterns",
+              "devops",
+              "docker",
+              "education",
+              "genai",
+              "kubernetes",
+              "langgraph",
+              "learning-path",
+              "low-level-design",
+              "mcp",
+              "open-source",
+              "rag",
+              "roadmap",
+              "system-design",
+              "terraform",
+              "vllm"
+            ]
+          },
+          "first_seen": "2026-11-21T17:56:55.404Z"
+        },
+        {
+          "node_type": "item",
           "title": "Frontend Developer Roadmap",
           "description": "Frontend developer roadmap with a visual path across core web technologies, frameworks, and tooling.",
           "children": [],
@@ -500,7 +542,7 @@
             "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6409,
+            "stars": 6408,
             "topics": [
               "architecture",
               "interview",
@@ -583,7 +625,7 @@
             "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 21011,
+            "stars": 21018,
             "topics": [
               "aws",
               "azure",
@@ -744,7 +786,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 85168,
+            "stars": 85171,
             "topics": [
               "course",
               "large-language-models",
@@ -771,7 +813,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 71044,
+            "stars": 71107,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -803,7 +845,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39607,
+            "stars": 39608,
             "topics": [
               "deep-learning"
             ]
@@ -826,7 +868,7 @@
             "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31362,
+            "stars": 31363,
             "topics": [
               "ai",
               "ai-roadmap",
@@ -958,7 +1000,7 @@
             "open_issues": 2,
             "owner": "mtahiraslan",
             "repo": "data-analyst-roadmap",
-            "stars": 1141,
+            "stars": 1143,
             "topics": [
               "blogs",
               "businessintelligence",
@@ -997,10 +1039,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-24T00:57:30Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Haozhe-Xing",
             "repo": "agent_learning",
-            "stars": 732,
+            "stars": 799,
             "topics": [
               "agent-learning",
               "agentic-workflow",
@@ -1128,7 +1170,7 @@
             "open_issues": 1,
             "owner": "thecoder8890",
             "repo": "forward-deployed-engineer-roadmap",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1232,6 +1274,38 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI Product Engineer Roadmap",
+          "description": "Seven-stage roadmap from LLM apps to RAG, agents, evals, and shipping AI features, with annotated resources and portfolio projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "2026 AI Product Engineer roadmap: 7 stages from LLM apps to RAG, agents, evals, and shipping. Annotated resources, tools, portfolio projects. MIT.",
+            "homepage": "https://landed.jobs",
+            "id": 1281012097,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-26T05:56:04Z",
+            "open_issues": 0,
+            "owner": "landedjobs",
+            "repo": "ai-product-engineer-roadmap",
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "ai-career",
+              "ai-engineer-roadmap",
+              "ai-product-engineer",
+              "awesome-list",
+              "learning-path",
+              "llm",
+              "llm-evals",
+              "rag",
+              "roadmap"
+            ]
+          },
+          "first_seen": "2026-11-21T17:56:55.404Z"
         }
       ],
       "title": "AI / Machine Learning / Data Science"
@@ -1290,7 +1364,7 @@
             "open_issues": 3,
             "owner": "m3y54m",
             "repo": "Embedded-Engineering-Roadmap",
-            "stars": 13958,
+            "stars": 13963,
             "topics": [
               "electronics",
               "electronics-engineering",
@@ -1324,7 +1398,7 @@
             "open_issues": 5,
             "owner": "TalalAlrawajfeh",
             "repo": "mathematics-roadmap",
-            "stars": 3629,
+            "stars": 3632,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1370,7 +1444,7 @@
             "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2213,
+            "stars": 2214,
             "topics": [
               "api-testing",
               "automation-test",
@@ -1460,7 +1534,7 @@
             "open_issues": 1,
             "owner": "m3y54m",
             "repo": "FPGA-ASIC-Roadmap",
-            "stars": 731,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:09.129Z"
@@ -1481,7 +1555,7 @@
             "open_issues": 3,
             "owner": "moshafiei",
             "repo": "system-design-master-plan",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "project-planning",
               "roadmap",
@@ -1513,7 +1587,7 @@
             "open_issues": 14,
             "owner": "IlIllII",
             "repo": "collecobrary",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome",
               "courses",
@@ -1593,16 +1667,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:03:40.658Z",
+    "last_updated": "2026-11-21T17:56:55.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of roadmaps.",
-      "homepage": null,
+      "homepage": "https://roadmaps.wiki/",
       "id": 165398433,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-19T09:16:12Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-21T17:23:47Z",
+      "open_issues": 0,
       "owner": "liuchong",
       "repo": "awesome-roadmaps",
       "stars": 7499,
@@ -1614,7 +1688,7 @@
         "roadmap"
       ]
     },
-    "original_repository_sha": "ec7fc34a49136b13aee8d63bd9374ad16c2a87dd",
+    "original_repository_sha": "04bc0b1494864c36251bde2ef06b257ffaf2fcc6",
     "enhanced_repository": "enhansome/enhansome-roadmaps",
     "enhanced_repository_description": null,
     "title": "Awesome Roadmaps with stars"
